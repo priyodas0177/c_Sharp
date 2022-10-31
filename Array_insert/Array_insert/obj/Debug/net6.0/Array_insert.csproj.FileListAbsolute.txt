@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/bin/Debug/net6.0/Array_insert
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/bin/Debug/net6.0/Array_insert.deps.json
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/bin/Debug/net6.0/Array_insert.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/bin/Debug/net6.0/Array_insert.dll
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/bin/Debug/net6.0/Array_insert.pdb
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.dll
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/refint/Array_insert.dll
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.pdb
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/Array_insert.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/Array_insert/Array_insert/obj/Debug/net6.0/ref/Array_insert.dll

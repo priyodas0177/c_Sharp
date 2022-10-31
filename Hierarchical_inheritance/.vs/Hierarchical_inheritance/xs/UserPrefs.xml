@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E980957C-20DC-48EF-B475-65F861A25911}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hierarchical_inheritance/Program.cs">
+    <Files>
+      <File FileName="Hierarchical_inheritance/Program.cs" Line="35" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hierarchical_inheritance" expanded="True">
+            <Node name="Hierarchical_inheritance" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hierarchical__inheritance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

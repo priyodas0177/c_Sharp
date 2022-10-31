@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8EB5F94C-90B2-49E4-9E3F-E7C37ACAF8BA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Array_print/Program.cs">
+    <Files>
+      <File FileName="Array_print/Program.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Array_print" expanded="True">
+            <Node name="Array_print" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Array__print PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

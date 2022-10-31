@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net6.0/Multiple_Inheritance
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net6.0/Multiple_Inheritance.deps.json
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net6.0/Multiple_Inheritance.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net6.0/Multiple_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/bin/Debug/net6.0/Multiple_Inheritance.pdb
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/refint/Multiple_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.pdb
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/Multiple_Inheritance.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/Multiple_Inheritance/Multiple_Inheritance/obj/Debug/net6.0/ref/Multiple_Inheritance.dll

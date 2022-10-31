@@ -1,0 +1,14 @@
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.exe.config
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.exe
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.pdb
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.csprojAssemblyReference.cache
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.csproj.CoreCompileInputs.cache
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.exe
+C:/Users/HASIB/Dropbox/AIUB/22. Fall 2022-23/OOP2/Projects/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.pdb
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.exe.config
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.exe
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/bin/Debug/ConsoleAppInherit.pdb
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.exe
+/Users/hdpriyo/Documents/C#/code2/ConsoleAppInheritSln/ConsoleAppInherit/obj/Debug/ConsoleAppInherit.pdb

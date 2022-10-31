@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{371C849E-424A-4152-9609-620FD03FF9A1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="User_input/Program.cs">
+    <Files>
+      <File FileName="User_input/Program.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="User_input" expanded="True">
+            <Node name="User_input" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hdpriyo/Documents/C#/User_input/User_input/Program.cs" relfile="User_input/Program.cs" line="3" column="1" />
+      <Breakpoint file="/Users/hdpriyo/Documents/C#/User_input/User_input/Program.cs" relfile="User_input/Program.cs" line="1" column="1" />
+      <Breakpoint file="/Users/hdpriyo/Documents/C#/User_input/User_input/Program.cs" relfile="User_input/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.User__input PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

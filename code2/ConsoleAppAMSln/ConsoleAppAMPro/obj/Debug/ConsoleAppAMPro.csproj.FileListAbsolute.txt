@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\bin\Debug\ConsoleAppAMPro.exe.config
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\bin\Debug\ConsoleAppAMPro.exe
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\bin\Debug\ConsoleAppAMPro.pdb
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\obj\Debug\ConsoleAppAMPro.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\obj\Debug\ConsoleAppAMPro.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\obj\Debug\ConsoleAppAMPro.exe
+C:\Users\HASIB\Dropbox\AIUB\22. Fall 2022-23\OOP2\Projects\ConsoleAppAMSln\ConsoleAppAMPro\obj\Debug\ConsoleAppAMPro.pdb

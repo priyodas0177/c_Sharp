@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/bin/Debug/net6.0/single_inheritance_UserInput
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/bin/Debug/net6.0/single_inheritance_UserInput.deps.json
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/bin/Debug/net6.0/single_inheritance_UserInput.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/bin/Debug/net6.0/single_inheritance_UserInput.dll
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/bin/Debug/net6.0/single_inheritance_UserInput.pdb
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.dll
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/refint/single_inheritance_UserInput.dll
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.pdb
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/single_inheritance_UserInput.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/single_inheritance_UserInput/single_inheritance_UserInput/obj/Debug/net6.0/ref/single_inheritance_UserInput.dll

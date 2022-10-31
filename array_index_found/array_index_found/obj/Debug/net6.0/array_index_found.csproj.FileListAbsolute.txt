@@ -1,0 +1,17 @@
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/array_index_found
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/array_index_found.deps.json
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/array_index_found.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/array_index_found.dll
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/array_index_found.pdb
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.dll
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/refint/array_index_found.dll
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.pdb
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/ref/array_index_found.dll
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/obj/Debug/net6.0/array_index_found.csproj.CopyComplete

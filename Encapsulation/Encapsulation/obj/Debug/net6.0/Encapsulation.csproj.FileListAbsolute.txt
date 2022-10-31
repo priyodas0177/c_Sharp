@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/bin/Debug/net6.0/Encapsulation
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/bin/Debug/net6.0/Encapsulation.deps.json
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/bin/Debug/net6.0/Encapsulation.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/bin/Debug/net6.0/Encapsulation.dll
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/bin/Debug/net6.0/Encapsulation.pdb
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.dll
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/refint/Encapsulation.dll
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.pdb
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/Encapsulation.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/Encapsulation/Encapsulation/obj/Debug/net6.0/ref/Encapsulation.dll

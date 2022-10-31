@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/List/List/bin/Debug/net6.0/List
+/Users/hdpriyo/Documents/C#/List/List/bin/Debug/net6.0/List.deps.json
+/Users/hdpriyo/Documents/C#/List/List/bin/Debug/net6.0/List.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/List/List/bin/Debug/net6.0/List.dll
+/Users/hdpriyo/Documents/C#/List/List/bin/Debug/net6.0/List.pdb
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.dll
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/refint/List.dll
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.pdb
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/List.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/List/List/obj/Debug/net6.0/ref/List.dll

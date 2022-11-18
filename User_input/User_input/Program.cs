@@ -14,9 +14,7 @@ namespace User_input {
             age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("My age is :" + age);
 
-            Console.WriteLine("Enter your cgpa");
-            cgpa = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("My cgpa is :" + cgpa);
+           
         }
     }
 }

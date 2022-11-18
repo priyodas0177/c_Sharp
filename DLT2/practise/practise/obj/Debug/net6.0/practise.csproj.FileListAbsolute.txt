@@ -1,0 +1,15 @@
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\bin\Debug\net6.0\practise.exe
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\bin\Debug\net6.0\practise.deps.json
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\bin\Debug\net6.0\practise.runtimeconfig.json
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\bin\Debug\net6.0\practise.dll
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\bin\Debug\net6.0\practise.pdb
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.csproj.AssemblyReference.cache
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.AssemblyInfoInputs.cache
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.AssemblyInfo.cs
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.csproj.CoreCompileInputs.cache
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.dll
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\refint\practise.dll
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.pdb
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\practise.genruntimeconfig.cache
+E:\6th Semester\C#\c_Sharp\DLT2\practise\practise\obj\Debug\net6.0\ref\practise.dll

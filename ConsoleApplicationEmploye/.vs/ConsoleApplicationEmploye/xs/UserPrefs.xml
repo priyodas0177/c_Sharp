@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{66102DEE-F7DD-4DB3-A0E6-D267D75D1FA9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplicationEmploye PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplicationEmploye/FullTime.cs">
+    <Files>
+      <File FileName="ConsoleApplicationEmploye/Program.cs" />
+      <File FileName="ConsoleApplicationEmploye/Employe.cs" />
+      <File FileName="ConsoleApplicationEmploye/FullTime.cs" Line="10" Column="10" />
+      <File FileName="ConsoleApplicationEmploye/PastTime.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApplicationEmploye" expanded="True">
+            <Node name="ConsoleApplicationEmploye" expanded="True">
+              <Node name="FullTime.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

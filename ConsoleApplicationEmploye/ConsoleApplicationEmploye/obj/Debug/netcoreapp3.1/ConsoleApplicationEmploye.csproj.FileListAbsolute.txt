@@ -1,0 +1,14 @@
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye.deps.json
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye.runtimeconfig.json
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye.runtimeconfig.dev.json
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye.dll
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/bin/Debug/netcoreapp3.1/ConsoleApplicationEmploye.pdb
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.AssemblyInfo.cs
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.dll
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.pdb
+/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/obj/Debug/netcoreapp3.1/ConsoleApplicationEmploye.genruntimeconfig.cache

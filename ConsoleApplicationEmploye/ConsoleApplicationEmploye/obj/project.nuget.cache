@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5DXeXYwjj26xx1qVR7EN5cPWuvhB2qe1WG8cC4VMCDv44glQyGis3S4Fz5uNtoSFCJtytqXfJ9eWK6u+pZ5aw==",
+  "success": true,
+  "projectFilePath": "/Users/hdpriyo/Documents/ConsoleApplicationEmploye/ConsoleApplicationEmploye/ConsoleApplicationEmploye.csproj",
+  "expectedPackageFiles": [
+    "/Users/hdpriyo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hdpriyo/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/hdpriyo/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

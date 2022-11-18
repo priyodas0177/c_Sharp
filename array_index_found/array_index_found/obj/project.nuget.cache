@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jd6iBZnVFi65XL3f8/rELX9KA4lCjNpecx+aSCRQti9vr6YoYNTBVC3PBhutH+mIvj5GpyQ7NdRn5RSgFuYODg==",
+  "success": true,
+  "projectFilePath": "/Users/hdpriyo/Documents/C#/array_index_found/array_index_found/array_index_found.csproj",
+  "expectedPackageFiles": [
+    "/Users/hdpriyo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

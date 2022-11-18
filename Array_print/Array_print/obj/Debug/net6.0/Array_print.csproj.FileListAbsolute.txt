@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/bin/Debug/net6.0/Array_print
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/bin/Debug/net6.0/Array_print.deps.json
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/bin/Debug/net6.0/Array_print.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/bin/Debug/net6.0/Array_print.dll
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/bin/Debug/net6.0/Array_print.pdb
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.dll
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/refint/Array_print.dll
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.pdb
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/Array_print.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/Array_print/Array_print/obj/Debug/net6.0/ref/Array_print.dll

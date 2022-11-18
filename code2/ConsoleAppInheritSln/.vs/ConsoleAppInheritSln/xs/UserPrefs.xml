@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1BC1B018-C814-4024-94C1-A845917F2F64}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppInherit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppInherit/Program.cs">
+    <Files>
+      <File FileName="ConsoleAppInherit/Child.cs" Line="1" Column="1" />
+      <File FileName="ConsoleAppInherit/Program.cs" Line="15" Column="41" />
+      <File FileName="ConsoleAppInherit/Parent.cs" Line="1" Column="1" />
+      <File FileName="ConsoleAppInherit/GrandChild.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppInheritSln" expanded="True">
+            <Node name="ConsoleAppInherit" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

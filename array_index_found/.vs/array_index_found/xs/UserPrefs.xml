@@ -1,0 +1,23 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{5CDCB9A8-6B79-4B25-9B7B-39822DE587C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.array__index__found PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="array_index_found/Program.cs">
+    <Files>
+      <File FileName="array_index_found/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="array_index_found" expanded="True">
+            <Node name="array_index_found" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

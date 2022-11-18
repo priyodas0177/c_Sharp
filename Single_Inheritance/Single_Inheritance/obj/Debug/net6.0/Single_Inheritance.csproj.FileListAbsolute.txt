@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/bin/Debug/net6.0/Single_Inheritance
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/bin/Debug/net6.0/Single_Inheritance.deps.json
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/bin/Debug/net6.0/Single_Inheritance.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/bin/Debug/net6.0/Single_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/bin/Debug/net6.0/Single_Inheritance.pdb
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/refint/Single_Inheritance.dll
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.pdb
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/Single_Inheritance.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/Single_Inheritance/Single_Inheritance/obj/Debug/net6.0/ref/Single_Inheritance.dll

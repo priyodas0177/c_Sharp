@@ -1,0 +1,15 @@
+/Users/hdpriyo/Documents/C#/User_input/User_input/bin/Debug/net6.0/User_input
+/Users/hdpriyo/Documents/C#/User_input/User_input/bin/Debug/net6.0/User_input.deps.json
+/Users/hdpriyo/Documents/C#/User_input/User_input/bin/Debug/net6.0/User_input.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/User_input/User_input/bin/Debug/net6.0/User_input.dll
+/Users/hdpriyo/Documents/C#/User_input/User_input/bin/Debug/net6.0/User_input.pdb
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.dll
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/refint/User_input.dll
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.pdb
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/User_input.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/User_input/User_input/obj/Debug/net6.0/ref/User_input.dll

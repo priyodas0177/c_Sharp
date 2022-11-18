@@ -12,6 +12,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Delete ans 2");
             Console.WriteLine("HD");
+            Console.WriteLine("mac");
         }
     }
 }

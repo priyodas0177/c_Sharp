@@ -1,0 +1,14 @@
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza.deps.json
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza.runtimeconfig.json
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza.runtimeconfig.dev.json
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza.dll
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/bin/Debug/netcoreapp3.1/TollPlaza.pdb
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.csproj.AssemblyReference.cache
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.AssemblyInfoInputs.cache
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.AssemblyInfo.cs
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.dll
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.pdb
+/Users/hdpriyo/Desktop/TollPlaza/TollPlaza/obj/Debug/netcoreapp3.1/TollPlaza.genruntimeconfig.cache

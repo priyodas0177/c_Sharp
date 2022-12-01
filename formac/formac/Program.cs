@@ -10,6 +10,7 @@ namespace @foreach
         {
             string name;
             string address;
+            string phonenumber;
             int count = 1;
 
             byte[] array = new byte[3];
@@ -17,13 +18,20 @@ namespace @foreach
             foreach (byte a in array)
             {
                 Console.WriteLine("dELETE ");
+                Console.WriteLine("Delete 2 ");
+
                 Console.WriteLine("Person " + count);
                 Console.WriteLine("Enter your name ");
                 name = Console.ReadLine();
                 Console.WriteLine("Enter your Address ");
                 address = Console.ReadLine();
+                Console.WriteLine("Enter your PhoneNumber ");
+                phonenumber = Console.ReadLine();
+
                 Console.WriteLine("My name is: " + name);
                 Console.WriteLine("My address is: " + address);
+                Console.WriteLine("My phoneNumber is: " + phonenumber);
+
                 // Console.ReadLine();
 
 

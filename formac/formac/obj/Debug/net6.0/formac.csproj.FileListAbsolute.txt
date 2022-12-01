@@ -1,15 +1,30 @@
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.csproj.AssemblyReference.cache
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.GeneratedMSBuildEditorConfig.editorconfig
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.AssemblyInfoInputs.cache
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.AssemblyInfo.cs
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.csproj.CoreCompileInputs.cache
-E:\6th Semester\C#\c_Sharp\formac\formac\bin\Debug\net6.0\formac.exe
-E:\6th Semester\C#\c_Sharp\formac\formac\bin\Debug\net6.0\formac.deps.json
-E:\6th Semester\C#\c_Sharp\formac\formac\bin\Debug\net6.0\formac.runtimeconfig.json
-E:\6th Semester\C#\c_Sharp\formac\formac\bin\Debug\net6.0\formac.dll
-E:\6th Semester\C#\c_Sharp\formac\formac\bin\Debug\net6.0\formac.pdb
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.dll
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\refint\formac.dll
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.pdb
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\formac.genruntimeconfig.cache
-E:\6th Semester\C#\c_Sharp\formac\formac\obj\Debug\net6.0\ref\formac.dll
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.csproj.AssemblyReference.cache
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.GeneratedMSBuildEditorConfig.editorconfig
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.AssemblyInfoInputs.cache
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.AssemblyInfo.cs
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.csproj.CoreCompileInputs.cache
+E:/6th Semester/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.exe
+E:/6th Semester/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.deps.json
+E:/6th Semester/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.runtimeconfig.json
+E:/6th Semester/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.dll
+E:/6th Semester/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.pdb
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.dll
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/refint/formac.dll
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.pdb
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.genruntimeconfig.cache
+E:/6th Semester/C#/c_Sharp/formac/formac/obj/Debug/net6.0/ref/formac.dll
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.deps.json
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.runtimeconfig.json
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.dll
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/bin/Debug/net6.0/formac.pdb
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.csproj.AssemblyReference.cache
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.AssemblyInfoInputs.cache
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.AssemblyInfo.cs
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.csproj.CoreCompileInputs.cache
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.dll
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/refint/formac.dll
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.pdb
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/formac.genruntimeconfig.cache
+/Users/hdpriyo/Documents/C#/c_Sharp/formac/formac/obj/Debug/net6.0/ref/formac.dll

@@ -8,6 +8,7 @@ namespace ConsoleApplicationEmploye
         {
             Employe e = new Employe();
             e.ShowInfo();
+            e.ShowInfo();
         }
     }
 }

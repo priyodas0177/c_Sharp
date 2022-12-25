@@ -13,3 +13,18 @@
 /Users/hdpriyo/Documents/C#/Array_Found/obj/Debug/net6.0/Array_Found.pdb
 /Users/hdpriyo/Documents/C#/Array_Found/obj/Debug/net6.0/Array_Found.genruntimeconfig.cache
 /Users/hdpriyo/Documents/C#/Array_Found/obj/Debug/net6.0/ref/Array_Found.dll
+E:\6th Semester\C#\c_Sharp\Array_Found\bin\Debug\net6.0\Array_Found.exe
+E:\6th Semester\C#\c_Sharp\Array_Found\bin\Debug\net6.0\Array_Found.deps.json
+E:\6th Semester\C#\c_Sharp\Array_Found\bin\Debug\net6.0\Array_Found.runtimeconfig.json
+E:\6th Semester\C#\c_Sharp\Array_Found\bin\Debug\net6.0\Array_Found.dll
+E:\6th Semester\C#\c_Sharp\Array_Found\bin\Debug\net6.0\Array_Found.pdb
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.csproj.AssemblyReference.cache
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.AssemblyInfoInputs.cache
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.AssemblyInfo.cs
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.csproj.CoreCompileInputs.cache
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.dll
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\refint\Array_Found.dll
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.pdb
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\Array_Found.genruntimeconfig.cache
+E:\6th Semester\C#\c_Sharp\Array_Found\obj\Debug\net6.0\ref\Array_Found.dll

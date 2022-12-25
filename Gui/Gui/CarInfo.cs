@@ -29,5 +29,10 @@ namespace Gui
             VehicleInfo back = new VehicleInfo();
             back.Show();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

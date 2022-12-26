@@ -1,7 +1,6 @@
 E:\6th Semester\C#\c_Sharp\Gui\Gui\bin\Debug\Gui.exe.config
 E:\6th Semester\C#\c_Sharp\Gui\Gui\bin\Debug\Gui.exe
 E:\6th Semester\C#\c_Sharp\Gui\Gui\bin\Debug\Gui.pdb
-E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.Properties.Resources.resources
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
@@ -18,3 +17,6 @@ E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.TruckTollCollection.resources
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.CarTollCollection.resources
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.Login.resources
 E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.AdminInfo.resources
+E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.Print.resources
+E:\6th Semester\C#\c_Sharp\Gui\Gui\obj\Debug\Gui.Vehicle_Print.resources

@@ -76,7 +76,7 @@ namespace Gui
             this.textusername.Location = new System.Drawing.Point(299, 108);
             this.textusername.Multiline = true;
             this.textusername.Name = "textusername";
-            this.textusername.Size = new System.Drawing.Size(106, 25);
+            this.textusername.Size = new System.Drawing.Size(149, 25);
             this.textusername.TabIndex = 4;
             // 
             // textpass
@@ -84,7 +84,7 @@ namespace Gui
             this.textpass.Location = new System.Drawing.Point(299, 158);
             this.textpass.Multiline = true;
             this.textpass.Name = "textpass";
-            this.textpass.Size = new System.Drawing.Size(106, 25);
+            this.textpass.Size = new System.Drawing.Size(149, 25);
             this.textpass.TabIndex = 5;
             this.textpass.TextChanged += new System.EventHandler(this.textpass_TextChanged);
             // 
@@ -124,7 +124,7 @@ namespace Gui
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button login;
+        //private System.Windows.Forms.Button login;
         private System.Windows.Forms.TextBox textusername;
         private System.Windows.Forms.TextBox textpass;
         private System.Windows.Forms.Button button1;

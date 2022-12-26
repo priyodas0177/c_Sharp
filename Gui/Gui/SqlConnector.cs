@@ -25,8 +25,10 @@ namespace Gui
         public SqlConnector() {
             this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-82CRDF5;Initial Catalog=A;Integrated Security=True");
             Sqlcon.Open();
-          ///  Console.WriteLine("Connection");
+          
         }
+
+        
 
     }
 }

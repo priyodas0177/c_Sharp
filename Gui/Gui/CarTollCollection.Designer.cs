@@ -34,7 +34,7 @@ namespace Gui
             this.textmoneyreceived = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textMoneyBack = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // moneyreceived
@@ -64,6 +64,7 @@ namespace Gui
             this.textmoneyreceived.Name = "textmoneyreceived";
             this.textmoneyreceived.Size = new System.Drawing.Size(144, 25);
             this.textmoneyreceived.TabIndex = 2;
+            this.textmoneyreceived.TextChanged += new System.EventHandler(this.textmoneyreceived_TextChanged);
             // 
             // button1
             // 
@@ -74,6 +75,7 @@ namespace Gui
             this.button1.TabIndex = 4;
             this.button1.Text = "Print";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -86,13 +88,13 @@ namespace Gui
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // textBox1
+            // textMoneyBack
             // 
-            this.textBox1.Location = new System.Drawing.Point(342, 163);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(144, 25);
-            this.textBox1.TabIndex = 6;
+            this.textMoneyBack.Location = new System.Drawing.Point(342, 163);
+            this.textMoneyBack.Multiline = true;
+            this.textMoneyBack.Name = "textMoneyBack";
+            this.textMoneyBack.Size = new System.Drawing.Size(144, 25);
+            this.textMoneyBack.TabIndex = 6;
             // 
             // CarTollCollection
             // 
@@ -100,7 +102,7 @@ namespace Gui
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(642, 404);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textMoneyBack);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textmoneyreceived);
@@ -120,6 +122,6 @@ namespace Gui
         private System.Windows.Forms.TextBox textmoneyreceived;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textMoneyBack;
     }
 }

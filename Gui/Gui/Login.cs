@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data;
+//using System.Data;
 using System.Data.SqlClient;
 
 namespace Gui
@@ -37,6 +37,7 @@ namespace Gui
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             SqlConnector sqlCon_obj = new SqlConnector();
             string sql = "select * from Table_1 where EmpNAME='" + textusername.Text + "'and EmpPASS='" + textpass.Text + "'";
             SqlCommand cmd = new SqlCommand(sql, sqlCon_obj.Sqlcon);
@@ -54,13 +55,13 @@ namespace Gui
                     {
                         new AdminInfo().Show();
                         this.Hide();
-                        //Console.WriteLine("Admin");
+                       
                     }
                     else
                     {
                         new VehicleInfo().Show();
                         this.Hide();
-                        // Console.WriteLine("Employee");
+                        
                     }
                 }
             }

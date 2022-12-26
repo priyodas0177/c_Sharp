@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//using System.Data;
+using System.Data.SqlClient;
 
 namespace Gui
 {
@@ -22,6 +24,16 @@ namespace Gui
             this.Close();
             CarInfo back = new CarInfo();
             back.Show();
+        }
+
+        private void textmoneyreceived_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

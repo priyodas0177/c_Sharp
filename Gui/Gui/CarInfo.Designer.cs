@@ -56,11 +56,14 @@ namespace Gui
             // 
             // dateTimePicker
             // 
+            this.dateTimePicker.CustomFormat = "dd/MM/yyyy";
             this.dateTimePicker.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePicker.Location = new System.Drawing.Point(319, 207);
             this.dateTimePicker.Name = "dateTimePicker";
             this.dateTimePicker.Size = new System.Drawing.Size(226, 22);
             this.dateTimePicker.TabIndex = 2;
+            this.dateTimePicker.Value = new System.DateTime(2022, 12, 26, 0, 0, 0, 0);
             // 
             // toll
             // 

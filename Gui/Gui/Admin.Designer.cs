@@ -38,8 +38,15 @@ namespace Gui
             this.btnRemove = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.txtSearch = new System.Windows.Forms.TextBox();
-            this.dataGridViewNumber = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNumber)).BeginInit();
+            this.dgvAdmin = new System.Windows.Forms.DataGridView();
+            this.btnSearch = new System.Windows.Forms.Button();
+            this.btnDay = new System.Windows.Forms.Button();
+            this.btnmonth = new System.Windows.Forms.Button();
+            this.btnyear = new System.Windows.Forms.Button();
+            this.DTP_day = new System.Windows.Forms.DateTimePicker();
+            this.DTPmonth = new System.Windows.Forms.DateTimePicker();
+            this.DTPyear = new System.Windows.Forms.DateTimePicker();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAdmin)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -62,6 +69,7 @@ namespace Gui
             this.btnTCD.TabIndex = 3;
             this.btnTCD.Text = "Toll Colllection By Day";
             this.btnTCD.UseVisualStyleBackColor = true;
+            this.btnTCD.Click += new System.EventHandler(this.btnTCD_Click);
             // 
             // btnTCM
             // 
@@ -137,21 +145,96 @@ namespace Gui
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(143, 28);
             this.txtSearch.TabIndex = 12;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
-            // dataGridViewNumber
+            // dgvAdmin
             // 
-            this.dataGridViewNumber.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewNumber.Location = new System.Drawing.Point(516, 288);
-            this.dataGridViewNumber.Name = "dataGridViewNumber";
-            this.dataGridViewNumber.Size = new System.Drawing.Size(361, 194);
-            this.dataGridViewNumber.TabIndex = 13;
+            this.dgvAdmin.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvAdmin.Location = new System.Drawing.Point(493, 246);
+            this.dgvAdmin.Name = "dgvAdmin";
+            this.dgvAdmin.Size = new System.Drawing.Size(369, 218);
+            this.dgvAdmin.TabIndex = 13;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.Location = new System.Drawing.Point(306, 334);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(75, 23);
+            this.btnSearch.TabIndex = 14;
+            this.btnSearch.Text = "Search";
+            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
+            // btnDay
+            // 
+            this.btnDay.Location = new System.Drawing.Point(666, 104);
+            this.btnDay.Name = "btnDay";
+            this.btnDay.Size = new System.Drawing.Size(75, 23);
+            this.btnDay.TabIndex = 15;
+            this.btnDay.Text = "Show";
+            this.btnDay.UseVisualStyleBackColor = true;
+            this.btnDay.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnmonth
+            // 
+            this.btnmonth.Location = new System.Drawing.Point(666, 155);
+            this.btnmonth.Name = "btnmonth";
+            this.btnmonth.Size = new System.Drawing.Size(75, 23);
+            this.btnmonth.TabIndex = 16;
+            this.btnmonth.Text = "Show";
+            this.btnmonth.UseVisualStyleBackColor = true;
+            this.btnmonth.Click += new System.EventHandler(this.btnmonth_Click);
+            // 
+            // btnyear
+            // 
+            this.btnyear.Location = new System.Drawing.Point(666, 217);
+            this.btnyear.Name = "btnyear";
+            this.btnyear.Size = new System.Drawing.Size(75, 23);
+            this.btnyear.TabIndex = 17;
+            this.btnyear.Text = "Show";
+            this.btnyear.UseVisualStyleBackColor = true;
+            this.btnyear.Click += new System.EventHandler(this.btnyear_Click);
+            // 
+            // DTP_day
+            // 
+            this.DTP_day.CustomFormat = "dd";
+            this.DTP_day.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.DTP_day.Location = new System.Drawing.Point(397, 104);
+            this.DTP_day.Name = "DTP_day";
+            this.DTP_day.Size = new System.Drawing.Size(134, 20);
+            this.DTP_day.TabIndex = 18;
+            // 
+            // DTPmonth
+            // 
+            this.DTPmonth.CustomFormat = "MMMM";
+            this.DTPmonth.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.DTPmonth.Location = new System.Drawing.Point(397, 158);
+            this.DTPmonth.Name = "DTPmonth";
+            this.DTPmonth.Size = new System.Drawing.Size(127, 20);
+            this.DTPmonth.TabIndex = 19;
+            // 
+            // DTPyear
+            // 
+            this.DTPyear.CustomFormat = "yyyy";
+            this.DTPyear.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.DTPyear.Location = new System.Drawing.Point(397, 217);
+            this.DTPyear.Name = "DTPyear";
+            this.DTPyear.Size = new System.Drawing.Size(127, 20);
+            this.DTPyear.TabIndex = 20;
             // 
             // AdminInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(918, 550);
-            this.Controls.Add(this.dataGridViewNumber);
+            this.Controls.Add(this.DTPyear);
+            this.Controls.Add(this.DTPmonth);
+            this.Controls.Add(this.DTP_day);
+            this.Controls.Add(this.btnyear);
+            this.Controls.Add(this.btnmonth);
+            this.Controls.Add(this.btnDay);
+            this.Controls.Add(this.btnSearch);
+            this.Controls.Add(this.dgvAdmin);
             this.Controls.Add(this.txtSearch);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.btnRemove);
@@ -164,7 +247,7 @@ namespace Gui
             this.Name = "AdminInfo";
             this.Text = "AdminInfo";
             this.Load += new System.EventHandler(this.ManagerInfo_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNumber)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAdmin)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -181,6 +264,13 @@ namespace Gui
         private System.Windows.Forms.Button btnRemove;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox txtSearch;
-        private System.Windows.Forms.DataGridView dataGridViewNumber;
+        private System.Windows.Forms.DataGridView dgvAdmin;
+        private System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.Button btnDay;
+        private System.Windows.Forms.Button btnmonth;
+        private System.Windows.Forms.Button btnyear;
+        private System.Windows.Forms.DateTimePicker DTP_day;
+        private System.Windows.Forms.DateTimePicker DTPmonth;
+        private System.Windows.Forms.DateTimePicker DTPyear;
     }
 }

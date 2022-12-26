@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 //using System.Data;
 using System.Data.SqlClient;
+using System.Globalization;
 
 namespace Gui
 {
@@ -23,11 +24,18 @@ namespace Gui
         {
             string carNumber = textCarNum.Text;
             string carDate = dateTimePicker.Text;
+           
             string carTime = Time.Text;
             double carMoney = Convert.ToDouble(textMoneyRec.Text);
-            double carMoneyBack = Convert.ToDouble(textMoneyBack.Text);
+            
             string carVehicleType = "Car";
-         
+            double toll = 500;
+            //double moneyReceived = Convert.ToDouble(textMoneyRec.Text);
+            double moneyBack = carMoney - toll;
+            //double carMoneyBack = Convert.ToDouble(textMoneyBack.Text);
+            textMoneyBack.Text = Convert.ToString(moneyBack);
+            double carMoneyBack = Convert.ToDouble(textMoneyBack.Text);
+
 
 
             SqlConnector sqlCon_obj = new SqlConnector();
@@ -38,6 +46,30 @@ namespace Gui
             cmd.ExecuteNonQuery();
             sqlCon_obj.Sqlcon.Close();
 
+            //data access dd/mm/yyyy
+            //string myString = "12/26/2022";
+
+            /*DateTime myString = DateTime.ParseExact(CarDate_1, "dd/MM/yyyy",CultureInfo.InvariantCulture);
+            string year =Convert.ToString(myString.Year) ;
+            string month = Convert.ToString(myString);
+            string day = Convert.ToString(myString.Day);*/
+            DateTime CarDate_1 = dateTimePicker.Value;
+            string day = CarDate_1.ToString("dd");
+            string month = CarDate_1.ToString("MMMM");
+            string year = CarDate_1.ToString("yyyy");
+            //double toll = Convert.ToDouble(500);
+
+
+
+            SqlConnector sqlCon_obj_1 = new SqlConnector();
+            string sql_1 = "Insert into incomeTable(Date,Month,Year,TollCollection) " +
+                "values('" + day + "','" + month + "','" + year + "', '" + toll + "')";
+
+            SqlCommand cmd_1 = new SqlCommand(sql_1, sqlCon_obj_1.Sqlcon);
+            cmd_1.ExecuteNonQuery();
+            sqlCon_obj_1.Sqlcon.Close();
+
+            //Details Print
             Vehicle_Print vh = new Vehicle_Print();
             vh.label7.Text = carVehicleType;
             vh.label8.Text=carNumber;
@@ -110,9 +142,9 @@ namespace Gui
 
         private void btn_moneyBack_Click(object sender, EventArgs e)
         {
-            double toll = 500;
+            double Toll = 500;
             double moneyReceived = Convert.ToDouble(textMoneyRec.Text);
-            double moneyBack = moneyReceived - toll;
+            double moneyBack = moneyReceived - Toll;
             textMoneyBack.Text = Convert.ToString(moneyBack);
 
         }

@@ -1,7 +1,0 @@
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\bin\Debug\Project.exe.config
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\bin\Debug\Project.exe
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\bin\Debug\Project.pdb
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.exe
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.pdb

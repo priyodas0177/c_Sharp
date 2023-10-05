@@ -1,2 +1,0 @@
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
-E:\6th Semester\C#\c_Sharp\Gui\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
